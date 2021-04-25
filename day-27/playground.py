@@ -14,5 +14,3 @@ def calculate(n, **kwargs):
 
 
 calculate(2, add=3, multiply=5)
-
-
